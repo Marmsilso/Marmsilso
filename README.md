@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Marmsilso&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
+###
+
+<img src="https://raw.githubusercontent.com/Marmsilso/Marmsilso/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
