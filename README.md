@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I'm currently working as a Junior Web Developer<br>🌱 I’m looking to expand my knowledge on web developing and back-ending<br>⚡ Currently focusing on web developing, but I have a big interest in game developing and creative writing<br>💬 I love to make Native Apps!!
+🔭 I'm currently working as a Junior Web Developer<br>🌱 I’m looking to expand my knowledge on web developing and back-ending<br>⚡ Currently focusing on web developing, but I have a big interest in game developing and creative writing
 
 [![](https://visitcount.itsvg.in/api?id=Marmsilso&icon=3&color=4)](https://visitcount.itsvg.in)
 
