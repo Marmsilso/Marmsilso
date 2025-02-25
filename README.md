@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2023!<br>🔭 I'm currently working as a Web Developer<br>🌱 I’m looking to expand my knowledge on web developing and back-ending<br>⚡ Currently focusing on web developing, but I have a big interest in game developing and creative writing</p>
+<p align="left">✨ Creating bugs since 2022!<br>🔭 I'm currently working as a Web Developer<br>🌱 I’m looking to expand my knowledge on web developing and back-ending<br>⚡ Currently focusing on web developing, but I have a big interest in game developing and creative writing</p>
 
 ###
 
