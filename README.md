@@ -81,15 +81,4 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Marmsilso&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
